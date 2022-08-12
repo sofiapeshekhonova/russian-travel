@@ -1,0 +1,10 @@
+.link {
+  opacity: 1;
+  transition-property: opasity;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  transition-delay: 2s;
+}
+.link:hover {
+  opacity: 0.8;
+}

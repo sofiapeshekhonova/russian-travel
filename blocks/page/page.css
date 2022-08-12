@@ -1,0 +1,19 @@
+.page {
+  max-width: 1280px;
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0 auto;
+  background-color: #2A2C2F;
+  font-family: 'Inter', Times, serif;
+  color: #fff;
+
+}
+  
+  /*
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+*/
