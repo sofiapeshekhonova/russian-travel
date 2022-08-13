@@ -4,6 +4,7 @@
   line-height: 161%;
   margin: 0;
   padding-bottom: 25px;
+  box-sizing: content-box;
 }
 
 .place__paragraph:last-child {

@@ -22,13 +22,19 @@
     line-height: 46px;
   }
 }
-
+@media screen and (max-width: 452px){
+  .place__title {
+    max-width: 100%;
+    padding-left: 16px;
+    font-size: 32px;
+    line-height: 35px;
+    padding-bottom: 32px;
+  }
+}
 @media screen and (max-width: 320px){
   .place__title {
     max-width: 90%;
     margin: auto;
-    font-size: 32px;
-    line-height: 35px;
-    padding-bottom: 32px;
+    padding-left: 0;
   }
 }
