@@ -9,6 +9,7 @@
   text-decoration: none;
   color: #fff;
   z-index: 2;
+  padding-top: 30px;
 }
 
 
@@ -16,6 +17,7 @@
   .cover__title {
     font-size: 9.4vw;
     line-height: 9.9vw;
+    padding-top: 4px;
   }
 }
 
@@ -24,5 +26,6 @@
     max-width: 288px;
     font-size: 32px;
     line-height: 35px;
+    padding: 0;
   }
 }

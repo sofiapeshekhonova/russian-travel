@@ -15,12 +15,14 @@
 
 @media screen and (max-width: 768px) {
   .photo-grid {
-    width: calc(100% - 2*24px);
+    gap: 16px;
+    width: calc(100% - 2*23px);
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   .photo-grid {
+    gap: 12px;
     width: calc(100% - 2*16px);
   }
 }

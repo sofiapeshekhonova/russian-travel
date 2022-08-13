@@ -6,10 +6,16 @@
   margin: 0;
 }
 
+@media screen and (max-width: 1024px){
+  .place__paragraphs {
+    max-width: 456px;
+  }
+} 
+
 @media screen and (max-width: 320px){
   .place__paragraphs {
     max-width: 90%;
-    margin: 32px auto 25px;
+    margin: 28px auto 25px;
   }
 }
 

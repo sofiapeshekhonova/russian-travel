@@ -8,9 +8,14 @@
   line-height: calc(20px + (36 - 20) * ((100vw - 320px) / (1280 - 320)));*/
   text-align: center;
   margin: auto;
-  padding: 32px 0 56px;
+  padding: 32px 0 64px;
 }
 
+@media screen and (max-width: 1024px) {
+  .lead__subtitle {
+    padding: 32px 0 56px;
+  }
+}
 @media screen and (max-width: 768px) {
   .lead__subtitle {
     font-size: 4vw;

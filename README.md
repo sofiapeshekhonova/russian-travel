@@ -11,5 +11,5 @@
 1. скачать расширение  extensions - live Server
 2. файл index.html правой кнопкой мыши "open with live server"
 
-*Ссылка GitНub*
+*Ссылка GitНub*https://sofiapeshekhonova.github.io/russian-travel/
 

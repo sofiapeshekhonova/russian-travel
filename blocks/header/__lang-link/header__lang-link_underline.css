@@ -1,3 +1,4 @@
 .header__lang-link_underline {
-  text-decoration: underline;
+  border-bottom: 3px #fff solid;
+  padding-top: 6px;
 }

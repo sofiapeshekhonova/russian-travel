@@ -3,20 +3,19 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 56px auto 92px;
+  margin: 53px auto 92px;
 }
 
 @media screen and (max-width: 1024px) {
   .lead {
     width: calc(100% - 2*48px);
-    margin-top: 48px;
+    margin-top: 44px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead {
     width: 100%;
-    margin-top: 48px;
     margin-bottom: 88px;
   }
 }
@@ -24,6 +23,6 @@
 @media screen and (max-width: 320px) {
   .lead {
     width: 100%;
-    margin: 48px auto 64px;
+    margin: 46px auto 64px;
   }
 }

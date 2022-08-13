@@ -1,7 +1,6 @@
 .header {
    display: flex;
    justify-content: space-between;
-   align-items: flex-end;
    padding-top: 28px;
    width: calc(100% - 2*48px);
    margin: 0 auto;
@@ -16,7 +15,7 @@
 
 @media screen and (max-width: 320px) {
    .header {
-      width: calc(100% - 2*48px);
+      width: calc(100% - 2*16px);
       padding-top: 16px;
    }
  }
