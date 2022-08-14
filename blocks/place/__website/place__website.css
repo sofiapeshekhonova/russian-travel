@@ -1,18 +1,17 @@
 .place__website {
-  grid-column: 2;
-  grid-row: 1/2;
   align-self: end;
   color: #fff;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 640px) {
   .place__website {
-    max-width: 456px;
+    margin-bottom: 32px;
+    margin-left: 32px;
   }
 }
-
-@media screen and (max-width: 452px) {
+@media screen and (max-width: 320px) {
   .place__website {
-    margin-left: 16px;
+    max-width: 90%;
+    margin: 0 auto 32px;
   }
 }

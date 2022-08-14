@@ -1,18 +1,9 @@
 .place__paragraphs {
-  grid-column: 2;
-  grid-row: 2;
-  max-width: 484px;
-  width: 100%;
+  max-width: 100%;
   margin: 0;
 }
 
-@media screen and (max-width: 1024px) {
-  .place__paragraphs {
-    max-width: 456px;
-  }
-}
-
-@media screen and (max-width: 452px) {
+@media screen and (max-width: 640px) {
   .place__paragraphs {
     max-width: 90%;
     margin: 28px auto 25px;
