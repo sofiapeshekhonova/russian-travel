@@ -7,12 +7,12 @@
 
 @media screen and (max-width: 1024px) {
   .place__website {
-  max-width: 456px;
+    max-width: 456px;
   }
 }
 
 @media screen and (max-width: 452px) {
   .place__website {
-  margin-left: 16px;
+    margin-left: 16px;
   }
 }

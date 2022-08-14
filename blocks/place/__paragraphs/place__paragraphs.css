@@ -6,16 +6,15 @@
   margin: 0;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1024px) {
   .place__paragraphs {
     max-width: 456px;
   }
-} 
+}
 
-@media screen and (max-width: 452px){
+@media screen and (max-width: 452px) {
   .place__paragraphs {
     max-width: 90%;
     margin: 28px auto 25px;
   }
 }
-

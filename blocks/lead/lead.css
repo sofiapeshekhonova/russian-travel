@@ -1,5 +1,5 @@
 .lead {
-  width: calc(100% - 2*148px);
+  width: calc(100% - 2 * 148px);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 1024px) {
   .lead {
-    width: calc(100% - 2*48px);
+    width: calc(100% - 2 * 48px);
     margin-top: 44px;
   }
 }

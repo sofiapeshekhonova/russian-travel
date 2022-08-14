@@ -1,9 +1,23 @@
 .header__lang-link {
-  padding-top: 18px;
+  max-width: 29px;
+  width: 100%;
+  max-height: 28px;
+  margin: 0;
+  padding-left: 16px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.header__lang-link:first-child {
+  padding:0;
 }
 
 @media screen and (max-width: 320px) {
   .header__lang-link {
-    padding-top: 14px;
+    font-size: 18px;
+    line-height: 20px;
   }
 }
