@@ -44,6 +44,7 @@
 }
 
 .cover__background:hover:before {
-  content: "";
   opacity: 0.8;
+  transition-timing-function: linear;
+  transition-duration: .10s;
 }

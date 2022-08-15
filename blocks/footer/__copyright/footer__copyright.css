@@ -9,9 +9,9 @@
   flex-wrap: wrap;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 370px) {
   .footer__copyright {
     line-height: 14px;
-    padding-top: 16px;
+    padding-top: 48px;
   }
 }

@@ -13,14 +13,20 @@
 
 @media screen and (max-width: 768px) {
   .places {
-    margin: 0 auto 6px;
+    padding-top: 88px;
+    margin: 0 auto 12px;
   }
 }
 
 @media screen and (max-width: 640px) {
   .places {
-    width: 100%;
+    padding-top: 60px;
+    margin: 0px auto 0px 0px;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .places {
     padding: 0;
-    margin: 64px auto 0;
   }
 }

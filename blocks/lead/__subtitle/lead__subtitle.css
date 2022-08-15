@@ -14,6 +14,7 @@
     padding: 32px 0 56px;
   }
 }
+
 @media screen and (max-width: 768px) {
   .lead__subtitle {
     font-size: 4vw;

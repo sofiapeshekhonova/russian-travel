@@ -1,4 +1,6 @@
 .photo-grid {
+  list-style: none;
+  padding: 0;
   width: calc(100% - 2 * 48px);
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -24,5 +26,6 @@
   .photo-grid {
     gap: 12px;
     width: calc(100% - 2 * 16px);
+    margin-bottom: 65px;
   }
 }
