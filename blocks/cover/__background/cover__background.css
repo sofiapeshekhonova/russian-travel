@@ -46,5 +46,5 @@
 .cover__background:hover:before {
   opacity: 0.8;
   transition-timing-function: linear;
-  transition-duration: .10s;
+  transition-duration: .2s;
 }
