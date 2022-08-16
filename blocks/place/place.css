@@ -36,13 +36,7 @@
 
 @media screen and (max-width: 320px) {
   .place {
-    display: block;
-    padding: 0;
     max-width: 320px;
     margin: 0 0 48px;
   }
-
-  /*.place:nth-child(4) {
-    margin: 0 0 75px;
-  }*/
 }
