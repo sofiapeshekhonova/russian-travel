@@ -6,10 +6,10 @@
 2. БЭМ-подход. организация файловой структуры Nested
 3. Адаптивная верстка
 4. Резиновая верстка
+5. флекс-бокс верстка
+6. Грид
 **Технологии:** CSS html
-**Инструкции:** Запуск через VS code и Live server
-1. скачать расширение  extensions - live Server
-2. файл index.html правой кнопкой мыши "open with live server"
+
 
 *Ссылка GitНub*https://sofiapeshekhonova.github.io/russian-travel/
 
